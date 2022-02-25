@@ -1,4 +1,3 @@
-# Using-Pandoc-for-changing-doc-files-to-markown
 ## Word to markdown guide Windows Edition
 
 ## Contents
@@ -28,5 +27,6 @@ Using PandDoc to convert a word doc into markdown file is fairly easy and straig
 3.	Be careful when finding the file path as a slight mistake will not allow it to be converted.
  
 ## Be on the lookout for
-    Make sure the the word socs and or markdown socs are in the correct . formats.  as word should be in .docx format and markdown in .md
-    Ensure that whejn yu take the fiel apth that you are copying it correctly
+    Make sure the the word docs and or markdown docs are in the correct .formats. 
+    as word should be in .docx format and markdown in .md
+    Ensure that when you take the file path that you are copying it correctly
